@@ -1,6 +1,4 @@
-## Hi there 👋 - i am Vimlesh Verma
-
-## About Me
+## Hi there 👋
 Hi! I'm **Vimlesh Verma**, a passionate Software Engineer with expertise in **Python, FastAPI, Django, and AWS**. I enjoy solving complex problems and optimizing system performance. Welcome to my portfolio repository!
 
 ## 📜 Education
