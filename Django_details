@@ -1,0 +1,12 @@
+Hello i am vimmlesh
+
+### Django Indepth
+
+```
+this is used so that we dont have PRODUCT Object thing on our admin_page
+    def __str__(self):
+        return self.title   
+
+       
+```
+ ![alt text](image.png)
