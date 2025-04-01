@@ -34,7 +34,6 @@ Hi! I'm **Vimlesh Verma**, a passionate Software Engineer with expertise in **Py
 
 ## 📬 Connect With Me
 - 📧 Email: [vimleshverma1998@gmail.com](mailto:vimleshverma1998@gmail.com)  
-- 🔗 GitHub: [vimlesh-verma16](https://github.com/vimlesh-verma16)  
 - 🔗 LinkedIn: [vimlesh-verma16](https://www.linkedin.com/in/vimlesh-verma16/)  
 - 🔗 LeetCode: [vimlesh_verma16](https://leetcode.com/vimlesh_verma16/)  
 
