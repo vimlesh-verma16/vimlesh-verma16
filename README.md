@@ -2,7 +2,7 @@
 
 Hi! I'm **Vimlesh Verma**, a Software Engineer (SDE III) passionate about building scalable backend systems, distributed platforms, and AI-powered applications. I specialize in developing production-grade microservices, LLM platforms, agentic AI systems, and real-time conversational AI. I enjoy solving complex engineering problems, optimizing large-scale systems, and building reliable cloud-native infrastructure.
 
----
+
 
 ## 📜 Education
 
@@ -12,7 +12,7 @@ Hi! I'm **Vimlesh Verma**, a Software Engineer (SDE III) passionate about buildi
 - **B.E in Computer Science and Engineering**  
   **Madhav Institute of Technology and Science, Gwalior** (2016 – 2020)
 
----
+
 
 ## 💼 Experience
 
@@ -23,13 +23,13 @@ Hi! I'm **Vimlesh Verma**, a Software Engineer (SDE III) passionate about buildi
 - Developed scalable backend services using Python, FastAPI, Kafka, Kubernetes, PostgreSQL, and AWS.
 - Implemented observability using Grafana, Loki, OpenTelemetry, and distributed tracing.
 
-### **Software Engineer I / R&D Intern** | Philips Innovation Campus *(Jan 2023 – Jul 2025)*
+### **Software Engineer I ** | Philips Innovation Campus *(Jan 2022 – Jul 2025)*
 - Developed scalable backend APIs using Django, FastAPI, and Python.
 - Optimized distributed systems and cloud-native services.
 - Modernized legacy C++ codebases and improved performance through parallel processing.
 - Built CI/CD pipelines, automated testing frameworks, and cloud deployments.
 
----
+
 
 ## 🚀 Tech Stack
 
