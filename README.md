@@ -23,7 +23,7 @@ Hi! I'm **Vimlesh Verma**, a Software Engineer (SDE III) passionate about buildi
 - Developed scalable backend services using Python, FastAPI, Kafka, Kubernetes, PostgreSQL, and AWS.
 - Implemented observability using Grafana, Loki, OpenTelemetry, and distributed tracing.
 
-### **Software Engineer I ** | Philips Innovation Campus *(Jan 2022 – Jul 2025)*
+### **Software Engineer I** | Philips Innovation Campus *(Jan 2022 – Jul 2025)*
 - Developed scalable backend APIs using Django, FastAPI, and Python.
 - Optimized distributed systems and cloud-native services.
 - Modernized legacy C++ codebases and improved performance through parallel processing.
