@@ -31,48 +31,19 @@ Hi! I'm **Vimlesh Verma**, a Software Engineer (SDE III) passionate about buildi
 
 
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-### ⚙️ Backend, Databases & Messaging
-<p align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge">
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-</p>
 
-### 🤖 AI, LLM & Agentic AI
-<p align="center">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge">
-<img src="https://img.shields.io/badge/AutoGen-0F62FE?style=for-the-badge">
-<img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge">
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/PgVector-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+**AI**
+LLMs • Gemini • OpenAI • LangGraph • MCP • PgVector • VOice AI (STT,TTS) • CrewAI • AutoGen 
 
-### ☁️ Cloud, DevOps & Observability
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
-</p>
+
+**Backend**
+Python • Go • Ruby • JavaScript • FastAPI • Django • Flask • Node.js • NestJS • gRPC • GitHub Actions • Pytest 
+
+
+**Cloud**
+AWS • Docker • Kubernetes • Kafka • PostgreSQL • MySQL • Redis • Grafana • Loki • OpenTelemetry 
 
 
 ## 🏆 Achievements & Certifications
